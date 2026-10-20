@@ -27,24 +27,48 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/CRT Bulge.face",
-      "versionCode": 0
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/CRT Bulge.face",
-      "versionCode": 0
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
     },
     "xmb11": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/CRT Bulge.face",
-      "versionCode": 0
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/CRT Bulge.face",
-      "versionCode": 0
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "表盘图片换成新固件直接支持的格式，修复首次亮屏卡顿，画面和功能不变"
+        }
+      ]
     }
   },
   "ext": {
